@@ -22,14 +22,14 @@
 
 <!-- SOCIAL ICONS: START -->
 ### Connect with me :smiley:
-<a href="https://twitter.com/philemonnwanne">
-  <img align="left" alt="Philemon Nwanne Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
+<a href="https://twitter.com/goodlucknwanne">
+  <img align="left" alt="Goodluck Nwanne Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/philnwanne/">
-  <img align="left" alt="Philemon Nwanne Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
+  <img align="left" alt="Goodluck Nwanne Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
 </a>
 <a href="https://altschoolafrica-soe.slack.com/archives/D039TQNH43C">
-  <img align="left" alt="Philemon Nwanne Slack" width="21px"
+  <img align="left" alt="Goodluck Nwanne Slack" width="21px"
 src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/slack.svg" />
 </a><br/><br/>
 <!-- SOCIAL ICONS: END -->
