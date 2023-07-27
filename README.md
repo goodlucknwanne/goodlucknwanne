@@ -7,7 +7,7 @@
 - 👤 I’m goodlucknwanne
 </samp><br>
 <samp>
-- 🌱 I’m currently learning learning JavaScript
+- 🌱 I’m currently learning JavaScript
 </samp><br>
 <samp>
 - 💼 Job interests: Software Engineer
